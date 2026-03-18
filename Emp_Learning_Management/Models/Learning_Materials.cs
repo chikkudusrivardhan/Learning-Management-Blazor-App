@@ -10,6 +10,8 @@ namespace Emp_Learning_Management.Models
         public string Name { get; set; } = string.Empty;
 
         public string Description { get; set; } = string.Empty;
+
+        public string new_name { get; set; } = "feature";
         
 
 
