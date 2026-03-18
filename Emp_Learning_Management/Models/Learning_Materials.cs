@@ -10,11 +10,7 @@ namespace Emp_Learning_Management.Models
         public string Name { get; set; } = string.Empty;
 
         public string Description { get; set; } = string.Empty;
-
-        public string mainImage { get; set; } = string.Empty;
-        public string videoLink { get; set; } = string.Empty;
-        public string pdfLink { get; set; } = string.Empty;
-        public string additionalResources { get; set; } = string.Empty;
+        
 
 
     }
