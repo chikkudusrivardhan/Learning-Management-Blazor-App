@@ -16,6 +16,7 @@ namespace Emp_Learning_Management.Models
         public string pdfLink { get; set; } = string.Empty;
         public string additionalResources { get; set; } = string.Empty;
 
-
+        git log --oneline--graph --decorate
+            git log--oneline --graph --decorate
     }
 }
